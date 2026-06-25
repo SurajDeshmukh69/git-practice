@@ -1,5 +1,9 @@
 "Hello Git" 
 "Second line" 
 "Welcome suraj" 
+<<<<<<< HEAD
 Authentication feature 
+=======
+payment feature 
+>>>>>>> feature-payment
 logout feature 
