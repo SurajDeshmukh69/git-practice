@@ -7,3 +7,5 @@ Authentication feature
 payment feature 
 >>>>>>> feature-payment
 logout feature 
+bug fix 
+profile feature 
